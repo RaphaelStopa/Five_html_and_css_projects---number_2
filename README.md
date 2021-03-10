@@ -16,4 +16,4 @@ css shine
 ![alt text](https://github.com/RaphaelStopa/five_html_and_css_projects---number_2/blob/main/css%20shine/css%20shine.jpg)
 
 login animation
-![alt text](https://github.com/RaphaelStopa/five_html_and_css_projects---number_2/blob/main/login%20%20animation/concrete_spotted_Diffuse.jpg)
+![alt text](https://github.com/RaphaelStopa/five_html_and_css_projects---number_2/blob/main/login%20%20animation/preview.png)
